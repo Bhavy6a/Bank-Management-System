@@ -1,0 +1,8 @@
+Bhavya               Gupta                bhav_g          abcxyz123           2468                4000.5              Silver              bhhavv@email.com           1234567890                    
+Fatima              Ali                 fatima_a          qwerty456           1357                4600.75             Gold                fatimaali@hotmail.com         2147483647                    
+Tanya              Jain               tanya_j        asdfg6           8642                6500.3              Diamond             tanya@outlook.com       2147483647                    
+Kanchi            Sinha              kanchi_s        1234pass            9753                9000.6              Silver              kanchi@email.com          2147483647                    
+Saumya               Sharma                saumya_s        letmein789          5289                5500.8              Gold                saumya@outlook.com         2147483647                    
+Yusuf               Khan                yusuf_khan          password123         3614                7000.25             Diamond             yusufkhan@email.com           2147483647                    
+Abhinav                 Jain             abhinav_j         asdf1234            7925                3000.35             Silver              abhinav@email.com          2147483647                    
+Hassan              Ali                 hassan_ali          sunshine123         2346                5000.5              Gold                hassanali@outlook.com         2147483647                    
